@@ -1,0 +1,5 @@
+[
+  { "id": "001", "name": "John Doe", "case": "Theft" },
+  { "id": "002", "name": "Jane Smith", "case": "Fraud" },
+  { "id": "003", "name": "Alex Johnson", "case": "Assault" }
+]
